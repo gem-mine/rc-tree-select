@@ -1,6 +1,6 @@
 {
   "name": "@gem-mine/rc-tree-select",
-  "version": "2.9.4-beta.0",
+  "version": "2.9.4-beta.1",
   "description": "tree-select ui component for react",
   "keywords": [
     "react",
@@ -8,14 +8,14 @@
     "react-tree-select",
     "tree-select"
   ],
-  "homepage": "https://github.com/react-component/tree-select",
+  "homepage": "https://github.com/gem-mine/rc-tree-select",
   "author": "hualei5280@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-component/tree-select.git"
+    "url": "https://github.com/gem-mine/rc-tree-select.git"
   },
   "bugs": {
-    "url": "https://github.com/react-component/tree-select/issues"
+    "url": "https://github.com/gem-mine/rc-tree-select/issues"
   },
   "files": [
     "es",
